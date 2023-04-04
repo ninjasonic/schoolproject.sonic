@@ -1,0 +1,241 @@
+body {
+    
+    justify-content:center;
+    background-image: url(sonic_backround2.jpg);
+    font-family: fantasy;
+    font-style: oblique;
+background-attachment: fixed;}
+
+html { scroll-behavior: smooth;}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+    
+
+
+
+
+header section {
+
+    display: flex;
+    justify-content:space-between;
+    width: 60%;
+    height: 150px;
+    
+    
+
+}
+
+header {
+    width: 100vw;
+   
+    display: flex;
+    justify-content: flex-end;
+}
+
+.geschichte {
+
+    position: relative;
+    top: -1000px;
+}
+
+
+.sec1 {
+    display: flex;
+    
+    
+    
+    align-items: center;
+
+    margin-top:50px ;
+    margin-bottom: 0px;
+    
+    
+    font-size: x-large;
+    color: rgb(255, 217, 0);
+    
+}
+
+nav ul {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    width: 60%;
+    height: 30px;
+    border: 6px solid rgb(22, 30, 143);
+    
+    padding: 10px;
+    margin: 0px;
+    color: rgb(231, 223, 223);
+    border-radius:25px ;
+
+    
+    list-style: none;
+    
+    /* gradient einbringen gelb, rot */
+    
+    background-color: rgba(153, 12, 12, 0.87);
+    }
+
+   
+
+        
+    
+  
+    
+
+    div p {
+        display: flex;
+        justify-content: left;
+        width: 60%;
+        padding-top: 100px;
+        height: 125px;
+        border: 1px solid rgba(29, 29, 28, 0.603);
+        padding: 20px;
+        margin-top: 0px 10px;
+        margin-bottom: 0px 10px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: large;
+        background-color: rgba(252, 252, 252, 0.116);
+        border-radius:25px
+        }
+
+        
+        
+        
+
+        
+        .sonic1 {
+
+            display: flex;
+            justify-content:left;
+            padding: 10px;
+            margin-top: 0px 50px;
+            height: 250px;
+            width: 70%;
+            flex-direction: column;
+            background-color:rgba(252, 252, 252, 0.171) ;
+            border: 1px solid rgb(39, 39, 39);
+            border-radius: 25px;
+            font-size: large;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+
+
+        h2 {
+
+            border: 6px solid rgb(22, 30, 143);
+            background-color: rgba(153, 12, 12, 0.781);
+            align-items: center;
+            width: 30%;
+            height: 30px;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-style: oblique;
+            color: rgb(252, 252, 252);
+            border-radius: 25px;
+            padding: 10px;
+            /* schrift undeutlich */
+        }
+
+      .pic1 {
+
+        display: flex;
+        justify-content: flex-end;
+        height: 350px;
+        height: 300px;
+        margin-right: 20%;
+        margin-bottom: 30px;
+        }  
+        
+
+        h3 {
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-style: oblique;
+            color: yellow;
+           }
+       
+
+    
+
+        
+/* First the Grid */
+.gallery-grid div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-items: center;
+    margin: 0;
+    padding: 0;
+  }
+
+  .gallery-grid figure {
+
+    width: 250px;
+    height: 250px;
+    background-color: rgba(255, 249, 249, 0.274);
+   border: 1px solid rgba(54, 52, 52, 0.233);
+   border-radius: 125px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+  /* The Picture Frame */
+  .gallery-frame {
+    padding: .5rem;
+    font-size: 1.2rem;
+    text-align: center;
+    
+    color: #0f0c0c;
+  }
+  
+  /* The Images */
+  .gallery-img {
+    max-width: 100%;
+    height: 120px;
+    object-fit: cover;
+    transition: opacity 0.25s ease-in-out;
+    
+    
+    
+    padding: 20px;
+    margin: 0px;
+
+    
+
+  }
+  
+  .gallery-img:hover {
+    opacity: .7;
+  }
+
+  figcaption {
+    font-family: fantasy;
+    color: rgb(63, 56, 56);
+    text-decoration: overline; }
+
+
+    
+
+    
+
+   
+
+    
+
+
+
+    
+
+
+            
+
+        
+    
+
+
+
